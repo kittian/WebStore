@@ -20,7 +20,7 @@ export const GruposScreen = () => {
                     </div>
                     <div className="col-1">
                         <div className="d-grid gap-2 d-md-flex justify-content-md-end">
-                            <button id="imprimir" className="btn btn-primary me-md-2" type="button" onclick="imprimirElemento()">Imprimir</button>
+                            <button id="imprimir" className="btn btn-primary me-md-2" type="button">Imprimir</button>
                         </div>
                     </div>
                 </div>
