@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Home = () => {
     return (
-        <div className="text-center">
+        <div className="text-center animate__animated animate__fadeInLeft">
 
             <h1 className="display-4 " >Aqui podras ver los datos en tiempo real</h1>
 
